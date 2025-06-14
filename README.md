@@ -84,7 +84,7 @@ Follow these steps to clone and run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/raven-dusky/the-aulab-post.git
+git clone https://github.com/Alorythm/the-aulab-post.git
 cd the-aulab-post
 
 # Install dependencies
